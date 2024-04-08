@@ -23,5 +23,7 @@ this dataset use for CNN training.
 ### Data Preprocessing
 ![image](https://github.com/778569/Face-Mask-Detection-using-Convolutional-Neural-Networks/assets/52319671/160ae772-3473-4bcf-a506-f471f82a09d5)
 
+* Convert image color in to gray scale
+* Need comon size - so resize the images to 100 x 100 px
 
 
