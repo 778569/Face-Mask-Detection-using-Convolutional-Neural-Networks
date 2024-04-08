@@ -13,9 +13,15 @@
 
 ## Dataset
 
-The dataset consisted of 1376 images, 690 face images with masks and 686 without masks. The original dataset is prepared by Prajna Bhandary and available at Github<br><br>
+The dataset consisted of 1376 images, 690 face images with masks and 686 without masks. The original dataset is prepared by Prajna Bhandary and available at Github<br><br> 
+https://github.com/prajnasb/observations/tree/master/experiements/data
+
 
 ![image](https://github.com/778569/Face-Mask-Detection-using-Convolutional-Neural-Networks/assets/52319671/2f0ef47a-38cd-44a2-923e-6ac48a8e2b10)
+this dataset use for CNN training.
+
+### Data Preprocessing
+![image](https://github.com/778569/Face-Mask-Detection-using-Convolutional-Neural-Networks/assets/52319671/160ae772-3473-4bcf-a506-f471f82a09d5)
 
 
 
