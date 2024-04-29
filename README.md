@@ -26,4 +26,29 @@ this dataset use for CNN training.
 * Convert image color in to gray scale
 * Need comon size - so resize the images to 100 x 100 px
 
+## Training the data using CNN
+
+![image](https://github.com/778569/Face-Mask-Detection-using-Convolutional-Neural-Networks/assets/52319671/19ef69d4-e7c8-4197-9398-d98cfe5cc077) <br><br>
+
+* this has two convolutional layers.
+* input 100x100 image for this one.
+* in here having 200 cornals 3x3 the first convolutional layer.
+* 2nd layer 100 and 3x3 cornals.
+* that convolutions I am going to Flatten
+* next connect with dense layer with 50 neurons
+* Final dense layer will be output layer. it has two neurons, with and without mask. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
