@@ -39,6 +39,8 @@ this dataset use for CNN training.
 * Final dense layer will be output layer. it has two neurons, with and without mask. 
 
 
+## Detecting masks
+
 
 
 
