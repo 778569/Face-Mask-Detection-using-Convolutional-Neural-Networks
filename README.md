@@ -41,6 +41,12 @@ this dataset use for CNN training.
 
 ## Detecting masks
 
+* input image through a cascade classifire
+* Detect the face
+* crop the image
+* Convert in to 100 x 100 image
+* And passed my trained CNN
+* wich predict weather with mask or without mask.
 
 
 
